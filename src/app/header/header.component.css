@@ -1,0 +1,20 @@
+.bg-custom {
+    background: rgba(255,255,255,0.6);
+    backdrop-filter: blur(5px);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+}
+.navbar .dropdown.open .dropdown-menu {
+    display: block !important;
+}
+.nav-item {
+    margin-right: 15px;
+}
+.nav-item.active {
+    border-bottom: 2px solid green;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-weight: bold;
+}

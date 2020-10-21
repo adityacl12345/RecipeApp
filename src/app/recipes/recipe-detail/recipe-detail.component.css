@@ -1,0 +1,9 @@
+.img-responsive {
+    width: 100%;
+}
+.row {
+    padding: 0px 15px;
+}
+.dropdown.open .dropdown-menu {
+    display: block !important;
+}
